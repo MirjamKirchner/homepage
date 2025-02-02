@@ -11,6 +11,22 @@ section:
 
 # Your accomplishments
 accomplishments:
+- name: Snowflake Hands on Essentials Workshops
+  timeline: "April 2024 - May 2024"
+  organization:
+    name: Snowflake
+    url: https://www.snowflake.com/en/resources/learn/snowflake-essentials-training/
+  courseOverview: "Essentials Workshops are highly interactive, totally free, self-paced, online courses for learners who are new to Snowflake or new to data work in general. Workshops feature animated scenarios, hands-on labs, and knowledge check questions. Lab work is graded by Snowflake University’s scoring robot, DORA."
+  certificateURL: https://achieve.snowflake.com/profile/mirjamkirchner718948/wallet
+
+- name: dbt Fundamentals
+  timeline: "Feb 2024"
+  organization:
+    name: dbt Labs
+    url: https://learn.getdbt.com/courses/dbt-fundamentals
+  courseOverview: "dbt Fundamentals is a course to learn the foundational steps of transforming data with dbt."
+  certificateURL: https://credentials.getdbt.com/e4df1007-996c-4e96-8518-3295d9b6699d#acc.aDeOr62x
+
 - name: IBM AI Enterprise Workflow Specialization
   timeline: "April 2021 - May 2021"
   organization:

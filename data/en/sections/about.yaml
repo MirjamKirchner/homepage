@@ -8,18 +8,20 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data Scientist
+designation: Senior Data Scientist
 # your company information
 company:
-  name: One Data GmbH
-  url: "https://onedata.de/en/"
+  name: digikoo GmbH
+  url: "https://digikoo.de/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "To me, Data Science is the way to support businesses that face complex problems in reaching their goals. In my role, I enjoy most to connect with people, understand their needs, and find a solution. The ever changing field of Data Science is also my source of constant learning and growth."
+summary: "In my role as a Senior Data Scientist in the energy sector, I help digikoo's customers by establishing a foundation for decision-making through the integration and modeling of data from diverse sources.<br>
+My colleagues appreciate my holistic, business-driven approach to problem-solving, my ability to successfully lead technical projects, and my open communication style.<br>
+I find working in the energy sector during this transformative period to be highly rewarding, as it gives me to make a positive contribution to the challenge of achieving climate neutrality."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -38,7 +40,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/mirjam-kirchner-5b9a0a106/"
+  url: "https://www.linkedin.com/in/mirjam-kirchner/?locale=en_US"
 
 #- name: Twitter
 #  icon: "fab fa-twitter"
@@ -71,17 +73,17 @@ badges:
 - type: soft-skill-indicator
   name: Data.
   percentage: 100
-  color: "#F7DDEB"
+  color: "#A1E3F9"
 
 - type: soft-skill-indicator
   name: Insight.
   percentage: 100
-  color: "#E899C4"
+  color: "#578FCA"
 
 - type: soft-skill-indicator
   name: Action!
   percentage: 100
-  color: "#D9559D"
+  color: "#3674B5"
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
