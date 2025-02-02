@@ -16,9 +16,14 @@ skills:
   summary: "I write SQL queries on a daily basis to process data in relational database management systems."
   url: "https://en.wikipedia.org/wiki/SQL"
 
+- name: dbt
+  logo: /images/sections/skills/dbt.png
+  summary: "I use dbt to build modular data-processing pipelines for quality-assured data products."
+  url: "https://www.getdbt.com/"
+
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "Python is my preferred programming language when it comes to the development of data products. I'm most familiar with the packages  scikit-learn, , pandas, matplotlib, and seaborn."
+  summary: "Python is my preferred programming language for developing Data-Science solutions."
   url: "https://www.python.org/"
 
 - name: R
@@ -35,8 +40,3 @@ skills:
   logo: /images/sections/skills/git.png
   summary: "I'm experienced with git-based development. In my professional career, I've been using GitLab. For my private projects, I use Github."
   url: "https://git-scm.com/"
-
-- name: User Research
-  logo: /images/sections/skills/ux.png
-  summary: "When I collaborated with experienced UX researchers in my past projects, I've gained familiarity with methodologies to better understand and serve user needs."
-  url: "https://en.wikipedia.org/wiki/User_research"

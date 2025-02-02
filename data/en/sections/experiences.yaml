@@ -11,18 +11,40 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: digikoo GmbH
+    url: "https://digikoo.de/"
+    location: Essen
+    # company overview
+    overview: digikoo's solutions offer data-based insights and concrete recommendations for action for a sustainable local energy transition.
+  positions:
+  - designation: Senior Data Scientist
+    start: Nov 2023
+    # give some points about what was your responsibilities at the company
+    responsibilities:
+    - In my role as a technical lead, designed and implemented digikoo’s Germany-wide solution to assess a municipality’s eligibility for shortened heat planning using dbt on Snowﬂake.
+    - Developed a prototype to evaluate the economic eﬃciency of district heating networks using a Mixed-Integer-Linear-Programme (MILP) modeling approach implemented in the Pyomo Python framework.
+
+- company:
     name: One Data GmbH
     url: "https://onedata.de/en/"
     location: Munich
     # company overview
     overview: One Data specializes in unlocking business value from data, either by building customized solutions or by providing standardized data products. At One Data, Data Scientists develop solutions on their home-grown technology platform.
   positions:
-  - designation: Data Scientist
-    start: Jan 2022
+  - designation: Senior Data Scientist
+    start: Apr 2023
+    end: Oct 2023
     # give some points about what was your responsibilities at the company
     responsibilities:
-    - Design of a Python framework to generate test data for solutions built on the home-grown technology platform, e.g., to enable integration tests or facilitate presentations of data products to customers
-    - Translation of user research data into an information flow design for the workforce planning activities of a large enterprise that enabled the UX/UI team to create a click dummy with high user acceptance
+    - In my role as technical team lead, successfully guided my team of 3 to deliver a prototype of a ﬁnancial planning dashboard in a short-term and high-stakes customer project that resulted in winning the customer for an additional contract.
+    - Supported my technical team lead in managing a team of 5+ individual contributors during the SAP migration of a custom supply- and workforce planning tool.
+
+  - designation: Data Scientist
+    start: Jan 2022
+    end: Apr 2023
+    responsibilities:
+    - Design of a Python framework to generate test data for solutions built on the home-grown technology platform, e.g., to enable integration tests or facilitate presentations of data products to customers.
+    - Translation of user research data into an information flow design for the workforce planning activities of a large enterprise that enabled the UX/UI team to create a click dummy with high user acceptance.
 
 - company:
     name: adesso insurance solutions GmbH
@@ -37,6 +59,4 @@ experiences:
     end: Dec 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Consultation of upper management on a cross-functional data strategy, e.g., by giving a free speech at an executive leadership meeting
-    - Designing and giving customer training sessions regarding adesso insurance solutions’s software products with a focus on data models and historicization
-    - Research, documentation and communication of legal regulations regarding the processing of personal data to build data-driven models for the German private insurance sector
+    - Conducted Requirements Engineering for Business Analytics in the private health insurance sector.
