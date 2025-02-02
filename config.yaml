@@ -1,7 +1,7 @@
 baseURL: https://www.mirjam-kirchner.com/
 
 languageCode: en-us
-title: "Panda Goes Data Science"
+title: "Mirjam Goes Data Science"
 
 # Use Hugo modules to add theme
 module:
