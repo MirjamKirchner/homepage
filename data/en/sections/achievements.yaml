@@ -12,7 +12,7 @@ section:
 achievements:
 - title: Speaker at "GeoPython" (05/2024)
   image: /images/sections/achievements/geopython2024.jpg
-  summary: In this <a href="https://youtu.be/WVIttURnF4Y?si=-OPMhUDPJUUdhp79">talk</a> at the GeoPython 2024, I had the opportunity to speak about how <a href="https://digikoo.de/">digikoo</a> uses geospatial to solve Germany's heat transition problem.
+  summary: In this <a href="https://youtu.be/WVIttURnF4Y?si=-OPMhUDPJUUdhp79">talk</a> at the GeoPython 2024, I had the opportunity to speak about how <a href="https://digikoo.de/">digikoo</a> uses geospatial data to solve Germany's heat transition problem.
 - title: Seal-Dashboard Builder (2022)
   image: /images/sections/achievements/rob_oliver.jpg
   summary: I had great fun processing the raw data of the <a href="https://www.seehundstation-friedrichskoog.de/en">seal rescue station</a> in Friedrichskoog, Germany, and serve it in this <a href="http://where-is-rob-oliver-pandagoesdatascience.eu.pythonanywhere.com/">dashboard</a>. If you'd like to learn more, check out my <a href="https://github.com/MirjamKirchner/rob-oliver-data">git repository</a>.
