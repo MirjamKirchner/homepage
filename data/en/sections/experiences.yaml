@@ -21,8 +21,8 @@ experiences:
     start: Nov 2023
     # give some points about what was your responsibilities at the company
     responsibilities:
-    - In my role as a technical lead, designed and implemented digikoo’s Germany-wide solution to assess a municipality’s eligibility for shortened heat planning using dbt on Snowﬂake.
-    - Developed a prototype to evaluate the economic eﬃciency of district heating networks using a Mixed-Integer-Linear-Programme (MILP) modeling approach implemented in the Pyomo Python framework.
+    - In my role as a technical lead, designed and implemented digikoo’s Germany-wide solution to assess a municipality’s eligibility for shortened heat planning using dbt on Snowflake.
+    - Developed a prototype to evaluate the economic efficiency of district heating networks using a Mixed-Integer-Linear-Programme (MILP) modeling approach implemented in the Pyomo Python framework.
 
 - company:
     name: One Data GmbH
@@ -36,7 +36,7 @@ experiences:
     end: Oct 2023
     # give some points about what was your responsibilities at the company
     responsibilities:
-    - In my role as technical team lead, successfully guided my team of 3 to deliver a prototype of a ﬁnancial planning dashboard in a short-term and high-stakes customer project that resulted in winning the customer for an additional contract.
+    - In my role as technical team lead, successfully guided my team of 3 to deliver a prototype of a financial planning dashboard in a short-term and high-stakes customer project that resulted in winning the customer for an additional contract.
     - Supported my technical team lead in managing a team of 5+ individual contributors during the SAP migration of a custom supply- and workforce planning tool.
 
   - designation: Data Scientist
